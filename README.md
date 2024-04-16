@@ -1,4 +1,4 @@
-# Quick_Defination_Extension
+# Quick_Definition_Extension
 
 This Extension helps you increase your vocabulary.
 
